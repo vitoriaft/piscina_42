@@ -27,5 +27,14 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 	}	
 	return (dest);
 }
+int		main()
+{
+    printf("src: %s\n", src);
+    printf("dest antes: %s\n", dest);
+    ft_strncpy(dest, src, 10);
+    printf("dest depois: %s\n", dest);
+
+    return 0;
+}
 
 
