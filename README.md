@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="C:\Users\Natalia\Downloads\patinho.png"/>
+  <img src="<img width="1536" height="1024" alt="patinho" src="https://github.com/user-attachments/assets/8e4ff033-37d4-424a-9b77-74e4351f5205"/>
 </p>
 
 <h1 align="center">🏊‍♀️ 42SP Piscina</h1>
 
 <p align="center">
-  <b>26 dias de imersão em C e Shell</b>
+  <b>26 dias de imersão em C</b>
 </p>
 
 ---
