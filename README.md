@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://chatgpt.com/s/m_69f1028bd25081919121daef30f70732" width="800"/>
+  <img src="<img width="1536" height="1024" alt="patinho" src="https://github.com/user-attachments/assets/41546d7c-266f-4917-9db1-971eebc5357b" />
+" width="800"/>
 </p>
 
 <h1 align="center">🏊‍♀️ 42SP Piscina</h1>
