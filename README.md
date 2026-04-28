@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://chatgpt.com/s/m_69f1028bd25081919121daef30f70732)" width="800"/>
+  <img src="https://chatgpt.com/s/m_69f1028bd25081919121daef30f70732" width="800"/>
 </p>
 
 <h1 align="center">🏊‍♀️ 42SP Piscina</h1>
