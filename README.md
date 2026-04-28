@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="patinho.png" src="https://github.com/user-attachments/assets/8e4ff033-37d4-424a-9b77-74e4351f5205"/>
+  <img src="https://github.com/user-attachments/assets/65494e41-83a5-4c66-88df-d735fdae2d47" width="800"/>
 </p>
 
 <h1 align="center">🏊‍♀️ 42SP Piscina</h1>
